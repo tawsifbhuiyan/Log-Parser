@@ -1,0 +1,26 @@
+2026-02-02 15:03:21.207 PID (46232) App Close Requested
+2026-02-02 15:03:21.231 PID (46232) App Close Requested complete
+2026-02-02 15:03:21.238 PID (46232) App Close Requested
+2026-02-02 15:03:21.240 PID (46232) App Close Requested
+2026-02-02 15:03:21.244 PID (46232) App Close Requested
+2026-02-02 15:03:21.250 PID (46232) AppSuspending
+2026-02-02 15:03:21.255 PID (46232) Connection_ServiceClosed
+2026-02-02 15:03:21.260 PID (46232) App Close Requested
+2026-02-02 15:03:21.265 PID (46232) App Close Requested
+2026-02-02 15:03:21.270 PID (46232) App Close Requested complete
+2026-02-02 15:03:21.275 PID (46232) ServicesCanceled
+2026-02-02 15:03:21.280 PID (46232) App Close Requested
+2026-02-02 15:03:21.285 PID (46232) App Close Requested
+2026-02-02 15:03:21.290 PID (46232) AppSuspending
+2026-02-02 15:03:21.295 PID (46232) App Close Requested
+2026-02-02 15:03:21.300 PID (46232) App Close Requested complete
+2026-02-02 15:03:21.305 PID (46232) Connection_ServiceClosed
+2026-02-02 15:03:21.310 PID (46232) App Close Requested
+2026-02-02 15:03:21.315 PID (46232) App Close Requested
+2026-02-02 15:03:21.320 PID (46232) App Close Requested complete
+2026-02-02 15:03:21.325 PID (46232) ServicesCanceled
+2026-02-02 15:03:21.330 PID (46232) App Close Requested
+2026-02-02 15:03:21.335 PID (46232) App Close Requested
+2026-02-02 15:03:21.340 PID (46232) AppSuspending
+2026-02-02 15:03:21.345 PID (46232) App Close Requested
+2026-02-02 15:59:21.350 PID (46232) App Close Requested complete
